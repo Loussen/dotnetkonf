@@ -36,7 +36,7 @@ jQuery(function($) {
   
       if ( $( '.countdown' ).length > 0 ) {
           $(".countdown").jCounter({
-                date: '2 November 2019 09:00:00',
+                date: '23 November 2019 13:30:00',
                 fallback: function() { console.log("count finished!") }
           });
       }
