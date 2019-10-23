@@ -3208,3 +3208,9 @@ display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
+div.banner-item
+{
+    background: rgb(120,10,247);
+    background: linear-gradient(90deg, rgba(120,10,247,1) 0%, rgba(157,12,227,1) 35%);
+}
