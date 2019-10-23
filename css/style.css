@@ -1668,6 +1668,8 @@ ul.navbar-nav > li:hover > a{
     transition: all .4s ease;
     -webkit-transform: translateY(0);
     transform: translateY(0);
+    width: calc(100% / 4 - 20px);
+    margin: 10px;
 }
 
 .ts-speaker:hover{
@@ -3199,4 +3201,10 @@ section#program p.date
 {
     color: red;
     font-weight: bold;
+}
+
+.flex-speakers {
+display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
