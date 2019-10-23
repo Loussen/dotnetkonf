@@ -679,7 +679,9 @@
 	/* Speakers */
 
 	.ts-speaker{
-		margin-bottom: 50px;
+		/*margin-bottom: 50px;*/
+		width: 100%;
+		margin: 10px 0;
 	}
 
 	.ts-speaker-image img{
