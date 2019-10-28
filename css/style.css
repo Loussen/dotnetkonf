@@ -1687,7 +1687,7 @@ ul.navbar-nav > li:hover > a{
 .ts-speaker-image:after {
     content: '';
     position: absolute;
-    background: rgba(210, 20, 86, .3);
+    background: rgba(255, 103, 2, .2);
     top: 0;
     left: 0;
     right: 0;
