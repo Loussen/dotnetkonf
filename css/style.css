@@ -61,7 +61,7 @@ h6 {
     font-family: 'Roboto', sans-serif;
 }
 h1 {
-    font-family: 'Lato', sans-serif;
+    /*font-family: 'Lato', sans-serif;*/
 }
 h1 {
     font-size: 48px;
@@ -2226,7 +2226,7 @@ h4.panel-title a.collapsed:before {
 
 .footer {
     background-color: #000563;
-    color: #666666;
+    color: #fff;
     padding: 12px 0;
     position: relative;
     background-attachment: fixed;
