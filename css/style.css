@@ -3128,7 +3128,7 @@ label {
 /* my codes */
 .button2{width:230px;
     background: rgb(17,102,205);
-    background: linear-gradient(169deg, rgba(17,102,205,1) 50%, rgba(0,5,99,1) 72%);
+    background: linear-gradient(169deg, rgba(0,10,204,1) 50%, rgba(0,5,99,1) 72%);
     border:1px solid beige;
     
     
@@ -3136,7 +3136,7 @@ label {
 .button2:hover{
     width:230px;
     background: rgb(17,102,205);
-    background: linear-gradient(350deg, rgba(17,102,205,1) 50%, rgba(0,5,99,1) 72%);
+    background: linear-gradient(350deg, rgba(0,10,204,1) 50%, rgba(0,5,99,1) 72%);
     border:1px solid beige;
     transition:0.5s;
 
